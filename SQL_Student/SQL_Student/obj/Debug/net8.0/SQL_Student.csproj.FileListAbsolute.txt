@@ -1,0 +1,14 @@
+O:\ForEdu\repos\MyProjectsC#\SQL_Student\SQL_Student\bin\Debug\net8.0\SQL_Student.exe
+O:\ForEdu\repos\MyProjectsC#\SQL_Student\SQL_Student\bin\Debug\net8.0\SQL_Student.deps.json
+O:\ForEdu\repos\MyProjectsC#\SQL_Student\SQL_Student\bin\Debug\net8.0\SQL_Student.runtimeconfig.json
+O:\ForEdu\repos\MyProjectsC#\SQL_Student\SQL_Student\bin\Debug\net8.0\SQL_Student.dll
+O:\ForEdu\repos\MyProjectsC#\SQL_Student\SQL_Student\bin\Debug\net8.0\SQL_Student.pdb
+O:\ForEdu\repos\MyProjectsC#\SQL_Student\SQL_Student\obj\Debug\net8.0\SQL_Student.GeneratedMSBuildEditorConfig.editorconfig
+O:\ForEdu\repos\MyProjectsC#\SQL_Student\SQL_Student\obj\Debug\net8.0\SQL_Student.AssemblyInfoInputs.cache
+O:\ForEdu\repos\MyProjectsC#\SQL_Student\SQL_Student\obj\Debug\net8.0\SQL_Student.AssemblyInfo.cs
+O:\ForEdu\repos\MyProjectsC#\SQL_Student\SQL_Student\obj\Debug\net8.0\SQL_Student.csproj.CoreCompileInputs.cache
+O:\ForEdu\repos\MyProjectsC#\SQL_Student\SQL_Student\obj\Debug\net8.0\SQL_Student.dll
+O:\ForEdu\repos\MyProjectsC#\SQL_Student\SQL_Student\obj\Debug\net8.0\refint\SQL_Student.dll
+O:\ForEdu\repos\MyProjectsC#\SQL_Student\SQL_Student\obj\Debug\net8.0\SQL_Student.pdb
+O:\ForEdu\repos\MyProjectsC#\SQL_Student\SQL_Student\obj\Debug\net8.0\SQL_Student.genruntimeconfig.cache
+O:\ForEdu\repos\MyProjectsC#\SQL_Student\SQL_Student\obj\Debug\net8.0\ref\SQL_Student.dll

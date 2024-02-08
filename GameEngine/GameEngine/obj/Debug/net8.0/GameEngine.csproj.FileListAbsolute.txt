@@ -1,0 +1,14 @@
+O:\ForEdu\repos\MyProjectsC#\GameEngine\GameEngine\bin\Debug\net8.0\GameEngine.exe
+O:\ForEdu\repos\MyProjectsC#\GameEngine\GameEngine\bin\Debug\net8.0\GameEngine.deps.json
+O:\ForEdu\repos\MyProjectsC#\GameEngine\GameEngine\bin\Debug\net8.0\GameEngine.runtimeconfig.json
+O:\ForEdu\repos\MyProjectsC#\GameEngine\GameEngine\bin\Debug\net8.0\GameEngine.dll
+O:\ForEdu\repos\MyProjectsC#\GameEngine\GameEngine\bin\Debug\net8.0\GameEngine.pdb
+O:\ForEdu\repos\MyProjectsC#\GameEngine\GameEngine\obj\Debug\net8.0\GameEngine.GeneratedMSBuildEditorConfig.editorconfig
+O:\ForEdu\repos\MyProjectsC#\GameEngine\GameEngine\obj\Debug\net8.0\GameEngine.AssemblyInfoInputs.cache
+O:\ForEdu\repos\MyProjectsC#\GameEngine\GameEngine\obj\Debug\net8.0\GameEngine.AssemblyInfo.cs
+O:\ForEdu\repos\MyProjectsC#\GameEngine\GameEngine\obj\Debug\net8.0\GameEngine.csproj.CoreCompileInputs.cache
+O:\ForEdu\repos\MyProjectsC#\GameEngine\GameEngine\obj\Debug\net8.0\GameEngine.dll
+O:\ForEdu\repos\MyProjectsC#\GameEngine\GameEngine\obj\Debug\net8.0\refint\GameEngine.dll
+O:\ForEdu\repos\MyProjectsC#\GameEngine\GameEngine\obj\Debug\net8.0\GameEngine.pdb
+O:\ForEdu\repos\MyProjectsC#\GameEngine\GameEngine\obj\Debug\net8.0\GameEngine.genruntimeconfig.cache
+O:\ForEdu\repos\MyProjectsC#\GameEngine\GameEngine\obj\Debug\net8.0\ref\GameEngine.dll
