@@ -8,17 +8,17 @@ namespace GameEngine.Domain.Models
 {
     public class GameMap
     {
-        private List<List<object>> _backMap;
+        private List<List<dynamic>> _backMap;
 
         public GameMap()
         {
-            _backMap = new List<List<object>>();
+            _backMap = new List<List<dynamic>>();
         }
-        public GameMap(List<List<object>> backMap, List<List<char>> map)
+        public GameMap(List<List<dynamic>> backMap)
         {
             _backMap = backMap;
         }
-        public List<List<object>> BackMap
+        public List<List<dynamic>> BackMap
         {
             get { return _backMap; }
         }

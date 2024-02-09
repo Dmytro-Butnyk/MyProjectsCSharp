@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "O:\\ForEdu\\repos\\MyProjectsC#\\GameEngine\\GameEngine\\GameEngine.csproj": {}
+    "O:\\GitHub\\MyProjectsC#\\GameEngine\\GameEngine\\GameEngine.csproj": {}
   },
   "projects": {
-    "O:\\ForEdu\\repos\\MyProjectsC#\\GameEngine\\GameEngine\\GameEngine.csproj": {
+    "O:\\GitHub\\MyProjectsC#\\GameEngine\\GameEngine\\GameEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "O:\\ForEdu\\repos\\MyProjectsC#\\GameEngine\\GameEngine\\GameEngine.csproj",
+        "projectUniqueName": "O:\\GitHub\\MyProjectsC#\\GameEngine\\GameEngine\\GameEngine.csproj",
         "projectName": "GameEngine",
-        "projectPath": "O:\\ForEdu\\repos\\MyProjectsC#\\GameEngine\\GameEngine\\GameEngine.csproj",
+        "projectPath": "O:\\GitHub\\MyProjectsC#\\GameEngine\\GameEngine\\GameEngine.csproj",
         "packagesPath": "C:\\Users\\dimab\\.nuget\\packages\\",
-        "outputPath": "O:\\ForEdu\\repos\\MyProjectsC#\\GameEngine\\GameEngine\\obj\\",
+        "outputPath": "O:\\GitHub\\MyProjectsC#\\GameEngine\\GameEngine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimab\\AppData\\Roaming\\NuGet\\NuGet.Config",

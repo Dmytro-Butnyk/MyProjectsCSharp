@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "O:\\ForEdu\\repos\\MyProjectsC#\\SQL_Student\\SQL_Student\\SQL_Student.csproj": {}
+    "O:\\GitHub\\MyProjectsC#\\SQL_Student\\SQL_Student\\SQL_Student.csproj": {}
   },
   "projects": {
-    "O:\\ForEdu\\repos\\MyProjectsC#\\SQL_Student\\SQL_Student\\SQL_Student.csproj": {
+    "O:\\GitHub\\MyProjectsC#\\SQL_Student\\SQL_Student\\SQL_Student.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "O:\\ForEdu\\repos\\MyProjectsC#\\SQL_Student\\SQL_Student\\SQL_Student.csproj",
+        "projectUniqueName": "O:\\GitHub\\MyProjectsC#\\SQL_Student\\SQL_Student\\SQL_Student.csproj",
         "projectName": "SQL_Student",
-        "projectPath": "O:\\ForEdu\\repos\\MyProjectsC#\\SQL_Student\\SQL_Student\\SQL_Student.csproj",
+        "projectPath": "O:\\GitHub\\MyProjectsC#\\SQL_Student\\SQL_Student\\SQL_Student.csproj",
         "packagesPath": "C:\\Users\\dimab\\.nuget\\packages\\",
-        "outputPath": "O:\\ForEdu\\repos\\MyProjectsC#\\SQL_Student\\SQL_Student\\obj\\",
+        "outputPath": "O:\\GitHub\\MyProjectsC#\\SQL_Student\\SQL_Student\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimab\\AppData\\Roaming\\NuGet\\NuGet.Config",

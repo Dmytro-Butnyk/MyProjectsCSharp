@@ -9,6 +9,6 @@ namespace GameEngine.Domain.Models
 {
     public class Ground(GroundType type)
     {
-        private GroundType _type = type; 
+        public GroundType _type = type; 
     }
 }

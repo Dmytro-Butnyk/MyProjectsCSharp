@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SQL_Student
-build_property.ProjectDir = O:\ForEdu\repos\MyProjectsC#\SQL_Student\SQL_Student\
+build_property.ProjectDir = O:\GitHub\MyProjectsC#\SQL_Student\SQL_Student\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
